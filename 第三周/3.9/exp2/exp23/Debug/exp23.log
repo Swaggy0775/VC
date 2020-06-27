@@ -1,0 +1,24 @@
+﻿生成启动时间为 2020/5/2 18:40:16。
+     1>项目“E:\visi _c++_demo\3.9\exp2\exp23\exp23.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\exp23.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt exp23.cpp exp23Doc.cpp exp23View.cpp
+         exp23View.cpp
+         正在生成代码...
+         正在编译...
+         exp23Doc.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         exp23.cpp
+       Link:
+         D:\visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visi _c++_demo\3.9\exp2\Debug\exp23.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\visi _c++_demo\3.9\exp2\Debug\exp23.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visi _c++_demo\3.9\exp2\Debug\exp23.lib" /MACHINE:X86 Debug\exp23.res
+         Debug\exp23.obj
+         Debug\exp23Doc.obj
+         Debug\exp23View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp23.vcxproj -> E:\visi _c++_demo\3.9\exp2\Debug\exp23.exe
+     1>已完成生成项目“E:\visi _c++_demo\3.9\exp2\exp23\exp23.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.70
