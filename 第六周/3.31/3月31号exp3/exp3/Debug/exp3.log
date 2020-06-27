@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/3/31 14:45:11。
+     1>项目“c:\Users\Coisini\documents\visual studio 2015\Projects\exp3\exp3\exp3.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\coisini\documents\visual studio 2015\Projects\exp3\Debug\exp3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"c:\users\coisini\documents\visual studio 2015\Projects\exp3\Debug\exp3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\coisini\documents\visual studio 2015\Projects\exp3\Debug\exp3.lib" /MACHINE:X86 Debug\exp3.res
+         Debug\exp3.obj
+         Debug\exp3Doc.obj
+         Debug\exp3View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp3.vcxproj -> c:\users\coisini\documents\visual studio 2015\Projects\exp3\Debug\exp3.exe
+     1>已完成生成项目“c:\Users\Coisini\documents\visual studio 2015\Projects\exp3\exp3\exp3.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.45

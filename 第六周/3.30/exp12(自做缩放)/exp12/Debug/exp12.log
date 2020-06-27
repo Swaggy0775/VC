@@ -1,0 +1,25 @@
+﻿生成启动时间为 2020/4/20 13:57:40。
+     1>项目“E:\visi _c++_demo\3.30\exp12\exp12\exp12.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\exp12.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt exp12View.cpp
+         exp12View.cpp
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(71): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(76): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(83): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(152): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(157): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\visi _c++_demo\3.30\exp12\exp12\exp12view.cpp(164): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         D:\visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visi _c++_demo\3.30\exp12\Debug\exp12.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\visi _c++_demo\3.30\exp12\Debug\exp12.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visi _c++_demo\3.30\exp12\Debug\exp12.lib" /MACHINE:X86 Debug\exp12.res
+         Debug\exp12.obj
+         Debug\exp12Doc.obj
+         Debug\exp12View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp12.vcxproj -> E:\visi _c++_demo\3.30\exp12\Debug\exp12.exe
+     1>已完成生成项目“E:\visi _c++_demo\3.30\exp12\exp12\exp12.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.62

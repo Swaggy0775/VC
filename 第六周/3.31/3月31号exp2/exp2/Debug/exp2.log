@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/4/5 12:46:03。
+     1>项目“E:\visi _c++_demo\3.31\exp2\exp2\exp2.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visi _c++_demo\3.31\exp2\Debug\exp2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\visi _c++_demo\3.31\exp2\Debug\exp2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visi _c++_demo\3.31\exp2\Debug\exp2.lib" /MACHINE:X86 Debug\exp2.res
+         Debug\exp2.obj
+         Debug\exp2Doc.obj
+         Debug\exp2View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         exp2.vcxproj -> E:\visi _c++_demo\3.31\exp2\Debug\exp2.exe
+     1>已完成生成项目“E:\visi _c++_demo\3.31\exp2\exp2\exp2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.41
